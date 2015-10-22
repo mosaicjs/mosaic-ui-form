@@ -1,6 +1,6 @@
 {
   "name": "mosaic-ui-form",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JsonSchema-based form generation",
   "main": "index.js",
   "scripts": {
